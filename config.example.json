@@ -1,0 +1,16 @@
+{
+  "local_endpoint": "http://localhost:11434",
+  "local_model": "llama3.2:latest",
+  "fireworks_model": "",
+  "email_recipient": "",
+  "agentmail_inbox": "",
+  "stream_0": "",
+  "stream_1": "",
+  "stream_2": "",
+  "stream_3": "",
+  "stream_4": "",
+  "stream_5": "",
+  "stream_6": "",
+  "stream_7": "",
+  "stream_8": ""
+}
